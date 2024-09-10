@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: white;
+}
+.wbg {
+  background: #1e1e1e;
+}
+
+ul,
+li,
+Link {
+  background-color: transparent;
+}
